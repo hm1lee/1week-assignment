@@ -1,3 +1,4 @@
 print("hello Tobig's world hyemzzzy")
 print("hello Tobig's world")
 print("my name is min joon")
+print("bye Tobig's world")
